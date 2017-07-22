@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 dir_local_only
 dir_local_too
+*.pyc
 
